@@ -74,7 +74,6 @@ class Landing extends React.Component {
                                                 <p>We craft better user experience and Interface designs for your digital products.</p></Col>
 
 
-
                                         </Row>
 
                                     </div>
