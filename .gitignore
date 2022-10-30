@@ -8,6 +8,11 @@
 # testing
 /coverage
 
+/idea
+.idea
+
+/node_modules
+
 # production
 /build
 
